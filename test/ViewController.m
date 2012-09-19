@@ -20,6 +20,9 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"XXXX");
+    
+    
+    NSLog(@"mac 10.6");
 }
 
 - (void)viewDidUnload
